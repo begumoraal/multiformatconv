@@ -3,7 +3,7 @@ The Python File Format Converter is a versatile script that allows users to conv
 
 ## Features:
 Multiple Conversion Options: Users can choose from a variety of conversion options, including:
-
+```
 -PDF to DOCX
 -DOCX to PDF
 -MP4 to MP3
@@ -11,7 +11,7 @@ Multiple Conversion Options: Users can choose from a variety of conversion optio
 -PPTX to PDF
 -HTML to PDF
 -PDF to HTML
-
+```
 Simple User Interface: The script provides a simple command-line interface where users can select their desired conversion option and provide input file names.
 
 ## How to Use:
